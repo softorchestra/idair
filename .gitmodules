@@ -1,0 +1,21 @@
+[submodule "sources/base"]
+	path = sources/base
+	url = /home/aland/src/imx6/sources/base/
+[submodule "sources/meta-fsl-arm"]
+	path = sources/meta-fsl-arm
+	url = /home/aland/src/imx6/sources/meta-fsl-arm
+[submodule "sources/meta-fsl-arm-extra"]
+	path = sources/meta-fsl-arm-extra
+	url = /home/aland/src/imx6/sources/meta-fsl-arm-extra/
+[submodule "sources/meta-fsl-demos"]
+	path = sources/meta-fsl-demos
+	url = /home/aland/src/imx6/sources/meta-fsl-demos/
+[submodule "sources/meta-idair"]
+	path = sources/meta-idair
+	url = /home/aland/src/imx6/sources/meta-idair/
+[submodule "sources/meta-openembedded"]
+	path = sources/meta-openembedded
+	url = /home/aland/src/imx6/sources/meta-openembedded/
+[submodule "sources/poky"]
+	path = sources/poky
+	url = /home/aland/src/imx6/sources/meta-poky/
